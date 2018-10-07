@@ -18,5 +18,6 @@ func main() {
 	fmt.Printf("%v \n", e)
 	fmt.Printf("%v \n", f)
 	fmt.Printf("%v \n", g)
+	fmt.Println("123")
 
 }
